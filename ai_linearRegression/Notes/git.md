@@ -1,8 +1,5 @@
 # Git & Github
 
-## Linked
-
-
 ### Connect to Github
 
 ```

@@ -11,5 +11,9 @@ aiENV/
 # Ignore dataset
 *.csv
 
+# Ignore vscode extensions
+
+.vscode/
+
 # Ignore Notes
 Notes.md

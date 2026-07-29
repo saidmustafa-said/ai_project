@@ -17,3 +17,13 @@ aiENV/
 .vscode/
 
 # Ignore Notes
+
+# Jupyter's autosave directory. Committed copies of notebooks-with-output,
+# which is bulk nobody reads and which distorts the language stats.
+.ipynb_checkpoints/
+
+# Course slide decks and handouts are third-party material, not source.
+*.pptx
+*.docx
+
+.DS_Store
